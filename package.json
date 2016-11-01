@@ -1,0 +1,26 @@
+{
+  "name": "atomizer",
+  "version": "0.0.1",
+  "description": "It takes rodnaph/vim-color-schemes and transpiles them to atom color schemes",
+  "main": "atomize.js",
+  "scripts": {
+    "test": "standard & mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ju5tu5/atomizer.git"
+  },
+  "keywords": [
+    "atom",
+    "color",
+    "scheme",
+    "theme",
+    "vim"
+  ],
+  "author": "Justus Sturkenboom <justus@ju5tu5.nl> (http://ju5tu5.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ju5tu5/atomizer/issues"
+  },
+  "homepage": "https://github.com/ju5tu5/atomizer#readme"
+}
